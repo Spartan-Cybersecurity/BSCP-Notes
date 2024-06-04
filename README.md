@@ -14,6 +14,8 @@ Bienvenido al e-book "Burp Suite Certified Practitioner - Ejercicios Resueltos".
 
 ## <mark style="color:red;">¿Qué es un Burp Suite Certified Practitioner?</mark>
 
+<figure><img src=".gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+
 El Burp Suite Certified Practitioner (BSCP) es una certificación oficial para profesionales de seguridad web, creada por los desarrolladores de Burp Suite. Convertirse en un Burp Suite Certified Practitioner demuestra un conocimiento profundo de las vulnerabilidades de seguridad web, la mentalidad adecuada para explotarlas y, por supuesto, las habilidades necesarias en Burp Suite para llevar a cabo estas tareas.
 
 ## <mark style="color:red;">Contenidos y Temáticas de la Certificación</mark>
