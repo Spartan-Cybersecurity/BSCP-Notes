@@ -58,6 +58,6 @@
 
 * [Lab 1: Username enumeration via different responses](authentication/lab-1-username-enumeration-via-different-responses.md)
 
-## WebSockets
+## HTTP request smuggling
 
-* [Lab 1: Manipulating WebSocket messages to exploit vulnerabilities](websockets/lab-1-manipulating-websocket-messages-to-exploit-vulnerabilities.md)
+* [Lab 1: HTTP request smuggling, confirming a CL.TE vulnerability via differential responses](http-request-smuggling/lab-1-http-request-smuggling-confirming-a-cl.te-vulnerability-via-differential-responses.md)
