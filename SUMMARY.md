@@ -45,3 +45,7 @@
 * [Lab 3: JWT authentication bypass via weak signing key](jwt/lab-3-jwt-authentication-bypass-via-weak-signing-key.md)
 * [Lab 4: JWT authentication bypass via jwk header injection](jwt/lab-4-jwt-authentication-bypass-via-jwk-header-injection.md)
 * [Lab 5: JWT authentication bypass via jku header injection](jwt/lab-5-jwt-authentication-bypass-via-jku-header-injection.md)
+
+## Server-side request forgery (SSRF)
+
+* [Lab 1: Basic SSRF against the local server](server-side-request-forgery-ssrf/lab-1-basic-ssrf-against-the-local-server.md)
