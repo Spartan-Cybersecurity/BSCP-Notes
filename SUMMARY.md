@@ -49,3 +49,11 @@
 ## Server-side request forgery (SSRF)
 
 * [Lab 1: Basic SSRF against the local server](server-side-request-forgery-ssrf/lab-1-basic-ssrf-against-the-local-server.md)
+
+## OS command injection
+
+* [Lab 1: OS command injection, simple case](os-command-injection/lab-1-os-command-injection-simple-case.md)
+
+## Authentication
+
+* [Lab 1: Username enumeration via different responses](authentication/lab-1-username-enumeration-via-different-responses.md)
