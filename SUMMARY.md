@@ -9,6 +9,10 @@
 
 * [Lab 1: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data](sql-injection/lab-1-sql-injection-vulnerability-in-where-clause-allowing-retrieval-of-hidden-data.md)
 * [Lab 2: SQL injection vulnerability allowing login bypass](sql-injection/lab-2-sql-injection-vulnerability-allowing-login-bypass.md)
+* [Lab 3: SQL injection attack, querying the database type and version on Oracle](sql-injection/lab-3-sql-injection-attack-querying-the-database-type-and-version-on-oracle.md)
+* [Lab 4: SQL injection attack, querying the database type and version on MySQL and Microsoft](sql-injection/lab-4-sql-injection-attack-querying-the-database-type-and-version-on-mysql-and-microsoft.md)
+* [Lab 5: SQL injection attack, listing the database contents on non-Oracle databases](sql-injection/lab-5-sql-injection-attack-listing-the-database-contents-on-non-oracle-databases.md)
+* [Lab 6: SQL injection attack, listing the database contents on Oracle](sql-injection/lab-6-sql-injection-attack-listing-the-database-contents-on-oracle.md)
 
 ## Cross Site Scripting
 
