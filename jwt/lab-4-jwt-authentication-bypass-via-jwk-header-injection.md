@@ -56,11 +56,11 @@ Luego de lo anterior generamos una RSA Key con la extension JWT Editor:
 
 Luego de la creacion queda asi:
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Y luego simplemente utilizamos la extension:
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Esto da como resultado acceso exitoso:
 

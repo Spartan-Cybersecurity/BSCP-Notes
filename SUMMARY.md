@@ -57,3 +57,7 @@
 ## Authentication
 
 * [Lab 1: Username enumeration via different responses](authentication/lab-1-username-enumeration-via-different-responses.md)
+
+## WebSockets
+
+* [Lab 1: Manipulating WebSocket messages to exploit vulnerabilities](websockets/lab-1-manipulating-websocket-messages-to-exploit-vulnerabilities.md)

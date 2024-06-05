@@ -118,7 +118,7 @@ Teniendo en cuenta lo anterior, enviamos la peticion al intruder en modo sniper 
 
 La configuracion para los payloads es:
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Y en settings asi:
 
