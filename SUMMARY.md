@@ -7,6 +7,7 @@
 
 ## SQL Injection
 
+* [¿SQL Injection?](sql-injection/sql-injection.md)
 * [Lab 1: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data](sql-injection/lab-1-sql-injection-vulnerability-in-where-clause-allowing-retrieval-of-hidden-data.md)
 * [Lab 2: SQL injection vulnerability allowing login bypass](sql-injection/lab-2-sql-injection-vulnerability-allowing-login-bypass.md)
 * [Lab 3: SQL injection attack, querying the database type and version on Oracle](sql-injection/lab-3-sql-injection-attack-querying-the-database-type-and-version-on-oracle.md)
@@ -16,6 +17,7 @@
 
 ## Cross Site Scripting
 
+* [¿XSS?](cross-site-scripting/xss.md)
 * [Lab 1: Reflected XSS into HTML context with nothing encoded](cross-site-scripting/lab-1-reflected-xss-into-html-context-with-nothing-encoded.md)
 * [Lab 2: Stored XSS into HTML context with nothing encoded](cross-site-scripting/lab-2-stored-xss-into-html-context-with-nothing-encoded.md)
 * [Lab 3: DOM XSS in document.write sink using source location.search](cross-site-scripting/lab-3-dom-xss-in-document.write-sink-using-source-location.search.md)
@@ -24,18 +26,22 @@
 
 ## ClickJacking
 
+* [¿Clickjacking?](clickjacking/clickjacking.md)
 * [Lab 1: Basic clickjacking with CSRF token protection](clickjacking/lab-1-basic-clickjacking-with-csrf-token-protection.md)
 
 ## Access control vulnerabilities
 
+* [¿Control de Acceso?](access-control-vulnerabilities/control-de-acceso.md)
 * [Lab 1: Unprotected admin functionality](access-control-vulnerabilities/lab-1-unprotected-admin-functionality.md)
 
 ## Path traversal
 
+* [¿Path Traversal?](path-traversal/path-traversal.md)
 * [Lab 1: File path traversal, simple case](path-traversal/lab-1-file-path-traversal-simple-case.md)
 
 ## XML external entity (XXE) injection
 
+* [¿XML external entity?](xml-external-entity-xxe-injection/xml-external-entity.md)
 * [Lab 1: Exploiting XXE using external entities to retrieve files](xml-external-entity-xxe-injection/lab-1-exploiting-xxe-using-external-entities-to-retrieve-files.md)
 
 ## JWT
