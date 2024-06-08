@@ -46,6 +46,7 @@
 
 ## JWT
 
+* [¿JWT?](jwt/jwt.md)
 * [Lab 1: JWT authentication bypass via unverified signature](jwt/lab-1-jwt-authentication-bypass-via-unverified-signature.md)
 * [Lab 2: JWT authentication bypass via flawed signature verification](jwt/lab-2-jwt-authentication-bypass-via-flawed-signature-verification.md)
 * [Lab 3: JWT authentication bypass via weak signing key](jwt/lab-3-jwt-authentication-bypass-via-weak-signing-key.md)
@@ -54,20 +55,25 @@
 
 ## Server-side request forgery (SSRF)
 
+* [¿SSRF?](server-side-request-forgery-ssrf/ssrf.md)
 * [Lab 1: Basic SSRF against the local server](server-side-request-forgery-ssrf/lab-1-basic-ssrf-against-the-local-server.md)
 
 ## OS command injection
 
+* [¿OS Command Injection?](os-command-injection/os-command-injection.md)
 * [Lab 1: OS command injection, simple case](os-command-injection/lab-1-os-command-injection-simple-case.md)
 
 ## Authentication
 
+* [¿Authentication?](authentication/authentication.md)
 * [Lab 1: Username enumeration via different responses](authentication/lab-1-username-enumeration-via-different-responses.md)
 
 ## HTTP request smuggling
 
+* [¿HTTP request smuggling?](http-request-smuggling/http-request-smuggling.md)
 * [Lab 1: HTTP request smuggling, confirming a CL.TE vulnerability via differential responses](http-request-smuggling/lab-1-http-request-smuggling-confirming-a-cl.te-vulnerability-via-differential-responses.md)
 
 ## Server-side template injection
 
+* [¿Server-side template injection?](server-side-template-injection/server-side-template-injection.md)
 * [Lab 1: Basic server-side template injection](server-side-template-injection/lab-1-basic-server-side-template-injection.md)
