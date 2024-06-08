@@ -1,9 +1,10 @@
 # Table of contents
 
-* [Aprende Hacking Web con los laboratorios de PortSwigger](README.md)
-  * [ADVERTENCIA](aprende-hacking-web-con-los-laboratorios-de-portswigger/advertencia.md)
-  * [Conoce a tu academia](aprende-hacking-web-con-los-laboratorios-de-portswigger/conoce-a-tu-academia.md)
-  * [Conoce a tu instructor](aprende-hacking-web-con-los-laboratorios-de-portswigger/conoce-a-tu-instructor.md)
+* [La Biblia del Hacking en Web](README.md)
+  * [ADVERTENCIA](la-biblia-del-hacking-en-web/advertencia.md)
+  * [Conoce a tu academia](la-biblia-del-hacking-en-web/conoce-a-tu-academia.md)
+  * [Conoce a tu instructor](la-biblia-del-hacking-en-web/conoce-a-tu-instructor.md)
+  * [Aprende Hacking Web con los laboratorios de PortSwigger](la-biblia-del-hacking-en-web/aprende-hacking-web-con-los-laboratorios-de-portswigger.md)
 
 ## SQL Injection
 

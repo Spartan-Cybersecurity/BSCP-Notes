@@ -26,6 +26,8 @@ Estamos orgullosos de ofrecer una amplia gama de certificaciones profesionales p
 * [**Certificado Profesional de Pentesting para Juniors | \[CPPJ\]**](https://www.spartan-cybersec.com/cursos/pentesting-para-juniors/)
 * [**Certificado Profesional de Pentesting contra Active Directory | \[CPAD-100\]**](https://www.spartan-cybersec.com/cursos/pentesting-contra-active-directory/)
 * [**Certificado Profesional de RedTeam OPS Developer Advanced | \[RTOD-200\]**](https://www.spartan-cybersec.com/redteams-ops-developer-v2/)
+* [**Certificado Profesional de Pentesting en ISC / SCADA - \[CPICS-100\]**](https://spartan-cybersec.com/cursos/pentesting-contra-sistemas-industriales-scada/)
+* [**Certificado Profesional de Red Team Development Command And Control - \[RTDC-300\]**](https://spartan-cybersec.com/cursos/rtdc-300/)
 
 ## 📺 <mark style="color:red;">Síguenos en YouTube</mark>
 
@@ -33,12 +35,11 @@ No te pierdas nuestras últimas actualizaciones, tutoriales y demostraciones pr�
 
 ## 🤖 <mark style="color:red;">¿Que es Spartan-Books?</mark>
 
-Visita [https://books.spartan-cybersec.com/](https://books.spartan-cybersec.com/) para visualizar nuestros E-books y unirte a nuestra comunidad de aprendizaje. ¡Tu viaje hacia la maestría en ciberseguridad comienza aquí, en Spartan-Books!
+Visita [https://books.spartan-cybersec.com/](https://books.spartan-cybersec.com/) para visualizar nuestros E-books y unirte a nuestra comunidad de aprendizaje.&#x20;
 
-{% embed url="https://books.spartan-cybersec.com/cppj/" %}
+¡Tu viaje hacia la maestría en ciberseguridad comienza aquí, en Spartan-Books!
 
-{% embed url="https://books.spartan-cybersec.com/cpad" %}
-
-{% embed url="https://books.spartan-cybersec.com/cpna" %}
-
-{% embed url="https://books.spartan-cybersec.com/cpics/" %}
+* [La Biblia del Hacking para Juniors](https://books.spartan-cybersec.com/cppj/)
+* [La Biblia del Hacking en Active Directory](https://books.spartan-cybersec.com/cpad)
+* [La Biblia del Hacking en AWS](https://books.spartan-cybersec.com/cpna)
+* [La Biblia del Hacking en WEB](https://books.spartan-cybersec.com/web)

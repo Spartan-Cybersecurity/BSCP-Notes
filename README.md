@@ -1,10 +1,11 @@
 ---
 description: Desarrollado por Spartan-Cybersecurity
-cover: .gitbook/assets/Jonas.png
-coverY: 0
+cover: >-
+  .gitbook/assets/nea9345_t-shirt_vector_data_leak--s_500_--ar_53_1c6798bc-149d-47c7-95da-701d2c9d9cba.png
+coverY: 3
 ---
 
-# Aprende Hacking Web con los laboratorios de PortSwigger
+# La Biblia del Hacking en Web
 
 {% hint style="danger" %}
 Este libro se ofrece de manera **gratuita** como parte de nuestro compromiso con la educación en ciberseguridad. Si encuentras este recurso útil, te invitamos a compartirlo con colegas y amigos interesados en el campo. Agradecemos tu apoyo y, como muestra de gratitud, te animamos a explorar nuestros cursos. Para más información o para adquirir alguno de nuestros cursos especializados, por favor, comunícate con nuestro canal de ventas: [https://wa.link/j265a0](https://wa.link/j265a0). Tu participación nos ayuda a seguir creando y compartiendo conocimientos valiosos con la comunidad.
@@ -20,44 +21,14 @@ Esta plataforma también ofrece numerosas oportunidades de trabajo en el campo d
 ¡Gracias por tu apoyo y por ser parte de esta comunidad!
 {% endhint %}
 
-Bienvenido al e-book "Burp Suite Certified Practitioner - Ejercicios Resueltos". Este recurso está diseñado para ayudarte a dominar los conceptos y técnicas necesarias para pasar la certificación de Burp Suite, especializándote en hacking web. Aquí encontrarás ejercicios resueltos, comandos, peticiones, y videos instructivos que te guiarán paso a paso en cada tema.
+Bienvenido a "<mark style="color:blue;">La Biblia del Hacking Web</mark>", un Spartan-Book diseñado para aquellos que desean dominar el arte del pentesting en aplicaciones web. En un mundo cada vez más digitalizado, la seguridad de las aplicaciones web se ha convertido en una prioridad crucial. De hecho, en el ámbito del pentesting, 7 de cada 10 evaluaciones se centran en aplicaciones web, lo que subraya la importancia de desarrollar habilidades en esta área.
 
-{% embed url="https://books.spartan-cybersec.com/cppj/appweb-for-juniors/porque-deberia-aprender-hacking-web" %}
+Este libro es tu guía definitiva para navegar por el complejo y fascinante mundo del hacking web. A lo largo de estas páginas, te acompañaré en un viaje de aprendizaje estructurado y exhaustivo, donde resolverás ejercicios prácticos de los laboratorios de PortSwigger utilizando BurpSuite, una de las herramientas más poderosas y versátiles en el ámbito de la ciberseguridad.
 
-## <mark style="color:red;">¿Qué es un Burp Suite Certified Practitioner?</mark>
+Nuestro objetivo es proporcionarte un conocimiento profundo y práctico que abarca desde las vulnerabilidades más comunes, como SQL Injection y Cross-Site Scripting (XSS), hasta las técnicas más avanzadas para comprometer y asegurar aplicaciones web. Cada capítulo está diseñado para fortalecer tus habilidades, guiándote paso a paso a través de los escenarios reales que enfrentarás en el campo.
 
-<figure><img src=".gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+Este Spartan-Book no solo te enseñará a identificar y explotar vulnerabilidades, sino que también te equipará con las mejores prácticas para realizar auditorías de seguridad efectivas y proporcionar recomendaciones de mitigación sólidas. A medida que avances, te familiarizarás con las herramientas y técnicas esenciales para llevar a cabo evaluaciones de seguridad web completas y profesionales.
 
-El Burp Suite Certified Practitioner (BSCP) es una certificación oficial para profesionales de seguridad web, creada por los desarrolladores de Burp Suite. Convertirse en un Burp Suite Certified Practitioner demuestra un conocimiento profundo de las vulnerabilidades de seguridad web, la mentalidad adecuada para explotarlas y, por supuesto, las habilidades necesarias en Burp Suite para llevar a cabo estas tareas.
+En el dinámico campo de la ciberseguridad, mantenerse actualizado es vital. Por ello, este libro será un recurso vivo, que se actualizará continuamente para incorporar las últimas técnicas y herramientas emergentes en el hacking web. Nuestro compromiso es asegurarnos de que siempre tengas acceso a la información más relevante y actualizada.
 
-## <mark style="color:red;">Contenidos y Temáticas de la Certificación</mark>
-
-La certificación BSCP cubre una amplia gama de temas esenciales para la seguridad web, incluyendo:
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
+Te invito a sumergirte en este viaje de descubrimiento y aprendizaje. Prepárate para desafiar tus límites y alcanzar un nivel de competencia que te diferenciará en el competitivo mundo de la ciberseguridad. Bienvenido a "La Biblia del Hacking Web". ¡Empecemos!
