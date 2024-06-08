@@ -10,6 +10,16 @@ coverY: 0
 Este libro se ofrece de manera **gratuita** como parte de nuestro compromiso con la educación en ciberseguridad. Si encuentras este recurso útil, te invitamos a compartirlo con colegas y amigos interesados en el campo. Agradecemos tu apoyo y, como muestra de gratitud, te animamos a explorar nuestros cursos. Para más información o para adquirir alguno de nuestros cursos especializados, por favor, comunícate con nuestro canal de ventas: [https://wa.link/j265a0](https://wa.link/j265a0). Tu participación nos ayuda a seguir creando y compartiendo conocimientos valiosos con la comunidad.
 {% endhint %}
 
+{% hint style="warning" %}
+Si el contenido que comparto en este sitio web te ha resultado valioso y sientes que has aprendido con él, te invito a apoyarme en mi candidatura para ser seleccionado como el  "Seccuri Star Professor for Colombia 2024".
+
+Tu voto es muy importante para mí y me ayudará a seguir compartiendo conocimientos y recursos en este campo tan crucial. Para votar, por favor, regístrate en la plataforma a través del siguiente enlace: [https://platform.seccuri.com/#/ColombiaAwards](https://platform.seccuri.com/#/ColombiaAwards) y luego de tu registro vota por **Gerardo Eliasib**.
+
+Esta plataforma también ofrece numerosas oportunidades de trabajo en el campo de la ciberseguridad, lo cual podría ser de gran interés para ti.
+
+¡Gracias por tu apoyo y por ser parte de esta comunidad!
+{% endhint %}
+
 Bienvenido al e-book "Burp Suite Certified Practitioner - Ejercicios Resueltos". Este recurso está diseñado para ayudarte a dominar los conceptos y técnicas necesarias para pasar la certificación de Burp Suite, especializándote en hacking web. Aquí encontrarás ejercicios resueltos, comandos, peticiones, y videos instructivos que te guiarán paso a paso en cada tema.
 
 {% embed url="https://books.spartan-cybersec.com/cppj/appweb-for-juniors/porque-deberia-aprender-hacking-web" %}
