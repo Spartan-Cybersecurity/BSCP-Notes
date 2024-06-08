@@ -8,6 +8,10 @@ coverY: 3
 # La Biblia del Hacking en Web
 
 {% hint style="danger" %}
+Este [Spartan-Book](https://books.spartan-cybersec.com/) aun se encuentra en desarrollo.
+{% endhint %}
+
+{% hint style="danger" %}
 Este libro se ofrece de manera **gratuita** como parte de nuestro compromiso con la educación en ciberseguridad. Si encuentras este recurso útil, te invitamos a compartirlo con colegas y amigos interesados en el campo. Agradecemos tu apoyo y, como muestra de gratitud, te animamos a explorar nuestros cursos. Para más información o para adquirir alguno de nuestros cursos especializados, por favor, comunícate con nuestro canal de ventas: [https://wa.link/j265a0](https://wa.link/j265a0). Tu participación nos ayuda a seguir creando y compartiendo conocimientos valiosos con la comunidad.
 {% endhint %}
 
