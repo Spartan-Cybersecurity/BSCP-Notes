@@ -78,3 +78,8 @@
 
 * [¿Server-side template injection?](server-side-template-injection/server-side-template-injection.md)
 * [Lab 1: Basic server-side template injection](server-side-template-injection/lab-1-basic-server-side-template-injection.md)
+
+## DOM-based vulnerabilities
+
+* [Lab 1: DOM XSS using web messages](dom-based-vulnerabilities/lab-1-dom-xss-using-web-messages.md)
+* [Page](dom-based-vulnerabilities/page.md)
