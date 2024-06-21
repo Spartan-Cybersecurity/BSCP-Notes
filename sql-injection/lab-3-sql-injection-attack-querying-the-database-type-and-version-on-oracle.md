@@ -380,7 +380,7 @@ Priority: u=0, i
 
 Lo anterior responde asi:
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 Lo anterior demuestra que los campos son de tipo STRING.
 
@@ -410,7 +410,7 @@ Priority: u=0, i
 
 Y esto respondio que el usuario era PETER:
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Ahora utilizaremos el siguiente payload para obtener el nombre de la base de datos:
 
@@ -440,7 +440,7 @@ Priority: u=0, i
 
 Y esto entrego la siguiente respuesta:
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Para identificar las tablas podriamos ejecutar lo siguiente:
 
@@ -468,7 +468,7 @@ Priority: u=0, i
 
 Y esto respondera:
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Y tambien podriamos consultar la version de la BD:
 
@@ -496,4 +496,4 @@ Priority: u=0, i
 
 Y esto responderia:
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>

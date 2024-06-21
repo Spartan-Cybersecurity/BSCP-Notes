@@ -2,7 +2,7 @@
 
 Al acceder a un producto, se procede a darle clic a CHECK STOCK:
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Lo anterior genera la siguiente peticion:
 

@@ -263,7 +263,7 @@ Priority: u=0, i
 
 Lo anterior responde asi:
 
-<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Se procede a retornar los nombres de las tablas:
 
@@ -291,7 +291,7 @@ Priority: u=0, i
 
 La peticion previa retorna lo siguiente:
 
-<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Se procede a revisar las columnas para la tabla de usuarios:
 
@@ -319,7 +319,7 @@ Priority: u=0, i
 
 La peticion previa responde asi:
 
-<figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Y ahora finalizamos retornando los valores de toda la tabla con la siguiente consulta:
 

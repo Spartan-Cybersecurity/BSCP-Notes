@@ -90,4 +90,10 @@
 
 ## Prototype pollution
 
-* [Lab 1: Client-side prototype pollution via browser APIs](prototype-pollution/lab-1-client-side-prototype-pollution-via-browser-apis.md)
+* [Lab 1: Client-side prototype pollution via browser APIs](prototype-pollution/lab-1-client-side-prototype-pollution-via-browser-apis/README.md)
+  * [Utilizando DOM Invader](prototype-pollution/lab-1-client-side-prototype-pollution-via-browser-apis/utilizando-dom-invader.md)
+* [Lab 2: DOM XSS via client-side prototype pollution](prototype-pollution/lab-2-dom-xss-via-client-side-prototype-pollution.md)
+
+## GraphQL
+
+* [Lab 1: Accessing private GraphQL posts](graphql/lab-1-accessing-private-graphql-posts.md)
