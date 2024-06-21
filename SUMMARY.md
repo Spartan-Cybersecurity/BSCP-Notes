@@ -86,4 +86,8 @@
 
 ## WebSockets
 
-* [Manipulating WebSocket messages to exploit vulnerabilities](websockets/manipulating-websocket-messages-to-exploit-vulnerabilities.md)
+* [Lab #1: Manipulating WebSocket messages to exploit vulnerabilities](websockets/lab-1-manipulating-websocket-messages-to-exploit-vulnerabilities.md)
+
+## Prototype pollution
+
+* [Lab 1: Client-side prototype pollution via browser APIs](prototype-pollution/lab-1-client-side-prototype-pollution-via-browser-apis.md)
