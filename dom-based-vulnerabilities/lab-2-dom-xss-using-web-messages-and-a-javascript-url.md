@@ -1,6 +1,11 @@
+---
+description: >-
+  https://portswigger.net/web-security/dom-based/controlling-the-web-message-source/lab-dom-xss-using-web-messages-and-a-javascript-url
+---
+
 # Lab 2: DOM XSS using web messages and a JavaScript URL
 
-El aplicativo web tiene en el codigo HTML lo siguiente:
+El aplicativo web tiene en el código HTML lo siguiente:
 
 ```html
 <script>
@@ -25,6 +30,6 @@ Y luego de lo anterior:
 
 <figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
-Es importante resaltar, que el script valida o busca la existencia de la siguiente palabra: http:
+Es importante resaltar, que el script valida o busca la existencia de la siguiente palabra: `http:`
 
 Si esta no se encuentra presente no se desplegara el XSS.

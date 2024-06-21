@@ -83,3 +83,7 @@
 
 * [Lab 1: DOM XSS using web messages](dom-based-vulnerabilities/lab-1-dom-xss-using-web-messages.md)
 * [Lab 2: DOM XSS using web messages and a JavaScript URL](dom-based-vulnerabilities/lab-2-dom-xss-using-web-messages-and-a-javascript-url.md)
+
+## WebSockets
+
+* [Manipulating WebSocket messages to exploit vulnerabilities](websockets/manipulating-websocket-messages-to-exploit-vulnerabilities.md)

@@ -1,3 +1,8 @@
+---
+description: >-
+  https://portswigger.net/web-security/dom-based/controlling-the-web-message-source/lab-dom-xss-using-web-messages
+---
+
 # Lab 1: DOM XSS using web messages
 
 Primero analizamos el codigo fuente y se detecta un codigo javascript interesante:
