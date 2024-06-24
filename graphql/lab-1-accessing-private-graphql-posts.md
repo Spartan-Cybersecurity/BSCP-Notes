@@ -2,7 +2,7 @@
 
 Primero al interceptar trafico detectamos lo siguiente:
 
-```
+```json
 POST /graphql/v1 HTTP/2
 Host: 0a5b00dd048ba554819aa27700090031.web-security-academy.net
 Cookie: session=l1QUxVhFtOE6JMh1Ok6hhctqCXxEqXzd
@@ -29,7 +29,13 @@ Priority: u=1, i
 
 Asi que modificamos el request aprovechando la interaccion con graphql:
 
-```
+{% hint style="info" %}
+La introspección en GraphQL es una característica inherente que permite a los clientes consultar el esquema del servidor GraphQL para descubrir los tipos de datos disponibles, así como las consultas, mutaciones y sus respectivos campos. Este mecanismo es una parte fundamental del diseño de GraphQL y facilita a los desarrolladores entender y explorar las capacidades de una API GraphQL.
+
+La introspección se origina como una solución a la falta de documentación dinámica en las API tradicionales. En REST, los desarrolladores deben confiar en documentación externa o comentarios en el código para comprender las rutas y los formatos de datos disponibles. GraphQL, por su diseño, incluye un sistema de introspección que permite a los clientes obtener esta información directamente del servidor, mejorando la autodescripción y la usabilidad de la API.
+{% endhint %}
+
+```json
 POST /graphql/v1 HTTP/2
 Host: 0a5b00dd048ba554819aa27700090031.web-security-academy.net
 Cookie: session=l1QUxVhFtOE6JMh1Ok6hhctqCXxEqXzd
@@ -56,7 +62,7 @@ Priority: u=1, i
 
 Lo anterior responde asi:
 
-```
+```json
 HTTP/2 200 OK
 Content-Type: application/json; charset=utf-8
 X-Frame-Options: SAMEORIGIN
@@ -280,9 +286,11 @@ Content-Length: 4231
 }
 ```
 
-Gracias a la introspeccion logramos identificar como podemos interactuar con este endpoint asi que enviamos la siguiente peticion:
+La respuesta revela el esquema del servidor, incluyendo los tipos `BlogPost` y sus campos, como `id`, `image`, `title`, `author`, `date`, `summary`, `paragraphs`, `isPrivate` y `postPassword`.
 
-```
+Con la información obtenida del esquema, un ethical hacker puede construir peticiones dirigidas a explotar funcionalidades específicas. Por ejemplo, se ha identificado que el tipo `BlogPost` tiene un campo `postPassword`.
+
+```json
 POST /graphql/v1 HTTP/2
 Host: 0a5b00dd048ba554819aa27700090031.web-security-academy.net
 Cookie: session=l1QUxVhFtOE6JMh1Ok6hhctqCXxEqXzd
@@ -309,7 +317,7 @@ Priority: u=1, i
 
 Lo anterior da como resultado:
 
-```
+```json
 HTTP/2 200 OK
 Content-Type: application/json; charset=utf-8
 X-Frame-Options: SAMEORIGIN
