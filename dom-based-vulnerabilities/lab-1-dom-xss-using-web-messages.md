@@ -38,7 +38,7 @@ Se procede a crear un HTML con el siguiente payload:
 
 Y lo anterior, nos genera el siguiente comportamiento:
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 El siguiente payload nos ayudara a resolver el ejercicio:
 

@@ -7,17 +7,17 @@ description: >-
 
 Primero ejecutamos lo siguiente:
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 Y luego modificamos la URL:
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 Se puede apreciar el retorno de `foo:bar`
 
 Así que procedemos analizar el código fuente:
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 La linea susceptible a prototype:
 
@@ -31,10 +31,10 @@ Y por lo anterior, se procede a utilizar la siguiente carga:&#x20;
 ?__proto__[transport_url]=foo
 ```
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 En la evidencia previa, se puede apreciar el src apuntando a foo.
 
 Modificamos nuestro payload para obtener un XSS:
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>

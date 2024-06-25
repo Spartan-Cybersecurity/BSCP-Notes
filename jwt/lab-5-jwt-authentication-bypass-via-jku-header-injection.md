@@ -7,7 +7,7 @@ description: >-
 
 Primero generamos una RSA Key con nuestra extension de Burp:
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 Copiamos el valor de la key:
 

@@ -1,3 +1,7 @@
+---
+description: https://portswigger.net/web-security/graphql/lab-graphql-reading-private-posts
+---
+
 # Lab 1: Accessing private GraphQL posts
 
 Primero al interceptar trafico detectamos lo siguiente:

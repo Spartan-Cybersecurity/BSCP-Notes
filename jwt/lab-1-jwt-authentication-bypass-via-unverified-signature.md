@@ -51,7 +51,7 @@ Content-Length: 0
 
 Este JWT tiene la siguiente estructura:
 
-<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% code overflow="wrap" %}
 ```bash
@@ -154,11 +154,11 @@ Luego de obtener el base64 del sub en administrator borramos los iguales y rearm
 
 Tambien podriamos utilizar esta herramienta:
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 
 Y al utilizar este JWT se obtiene lo siguiente:
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Utilizando jwt\_tool
 
