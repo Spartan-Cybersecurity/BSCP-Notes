@@ -90,6 +90,7 @@
 
 ## Prototype pollution
 
+* [¿Prototype Pollution?](prototype-pollution/prototype-pollution.md)
 * [Lab 1: Client-side prototype pollution via browser APIs](prototype-pollution/lab-1-client-side-prototype-pollution-via-browser-apis/README.md)
   * [Utilizando DOM Invader](prototype-pollution/lab-1-client-side-prototype-pollution-via-browser-apis/utilizando-dom-invader.md)
 * [Lab 2: DOM XSS via client-side prototype pollution](prototype-pollution/lab-2-dom-xss-via-client-side-prototype-pollution.md)
@@ -98,6 +99,9 @@
 * [Lab 4: Client-side prototype pollution via flawed sanitization](prototype-pollution/lab-4-client-side-prototype-pollution-via-flawed-sanitization.md)
 * [Lab 5: Client-side prototype pollution in third-party libraries](prototype-pollution/lab-5-client-side-prototype-pollution-in-third-party-libraries.md)
 * [Lab 6: Privilege escalation via server-side prototype pollution](prototype-pollution/lab-6-privilege-escalation-via-server-side-prototype-pollution.md)
+* [Lab 7: Detecting server-side prototype pollution without polluted property reflection](prototype-pollution/lab-7-detecting-server-side-prototype-pollution-without-polluted-property-reflection.md)
+* [Lab 8: Bypassing flawed input filters for server-side prototype pollution](prototype-pollution/lab-8-bypassing-flawed-input-filters-for-server-side-prototype-pollution.md)
+* [Lab 9: Remote code execution via server-side prototype pollution](prototype-pollution/lab-9-remote-code-execution-via-server-side-prototype-pollution.md)
 
 ## GraphQL
 

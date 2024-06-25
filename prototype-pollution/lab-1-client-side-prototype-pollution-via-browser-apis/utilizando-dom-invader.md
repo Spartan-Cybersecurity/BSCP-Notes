@@ -10,7 +10,7 @@ Luego habilitamos el DOM Invader:
 
 Y tambien habilitamos esta opcion:
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Luego de lo anterior, podemos apreciar lo siguiente en el devtools:
 

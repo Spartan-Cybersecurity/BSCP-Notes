@@ -17,7 +17,7 @@ Luego de lo anterior, se procede a realizar un GET concatenando lo siguiente:
 
 {% code overflow="wrap" %}
 ```
-https://0a02000304f0a2e18153d4b500a70079.web-security-academy.net/?__proto__[variable]=gerhishere
+/?__proto__[variable]=gerhishere
 ```
 {% endcode %}
 

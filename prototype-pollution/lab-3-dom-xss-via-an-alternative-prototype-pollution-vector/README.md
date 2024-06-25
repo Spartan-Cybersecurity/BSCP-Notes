@@ -13,7 +13,7 @@ Al validar la siguiente carga no funciona:
 
 Y se puede apreciar al ejecutar lo siguiente desde el devtools: `Object.prototype`
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Por lo anterior, se envia otra carga:
 
@@ -23,7 +23,7 @@ Por lo anterior, se envia otra carga:
 
 Y se logra ver que si funciono ejecutando desde el devtools: `Object.prototype`
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Por lo anterior, se procede a analizar el codigo fuente de JS:
 
