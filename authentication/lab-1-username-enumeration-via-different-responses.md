@@ -118,7 +118,7 @@ Teniendo en cuenta lo anterior, enviamos la peticion al intruder en modo sniper 
 
 La configuracion para los payloads es:
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Y en settings asi:
 
@@ -126,7 +126,7 @@ Y en settings asi:
 
 Al filtrar por la columna que busca por invalid username logramos identificar que el usuario apple es el unico que tiene una respuesta con un lenght mayor y no tiene la frase de "invalid username" en la respuesta:
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 La respuesta para este usuario fue:
 
@@ -136,7 +136,7 @@ Incorrect password
 
 Asi que ahora cambiaremos las posiciones de ataque y enviaremos multiples intentos de inicio de sesion para el usuario apple con diferentes contraseñas:
 
-<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Y finalizamos configurando tambien el payload:
 

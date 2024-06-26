@@ -102,7 +102,12 @@
 * [Lab 7: Detecting server-side prototype pollution without polluted property reflection](prototype-pollution/lab-7-detecting-server-side-prototype-pollution-without-polluted-property-reflection.md)
 * [Lab 8: Bypassing flawed input filters for server-side prototype pollution](prototype-pollution/lab-8-bypassing-flawed-input-filters-for-server-side-prototype-pollution.md)
 * [Lab 9: Remote code execution via server-side prototype pollution](prototype-pollution/lab-9-remote-code-execution-via-server-side-prototype-pollution.md)
+* [Lab 10: Exfiltrating sensitive data via server-side prototype pollution](prototype-pollution/lab-10-exfiltrating-sensitive-data-via-server-side-prototype-pollution.md)
 
 ## GraphQL
 
 * [Lab 1: Accessing private GraphQL posts](graphql/lab-1-accessing-private-graphql-posts.md)
+
+## Web cache poisoning
+
+* [Lab 1: Web cache poisoning with an unkeyed header](web-cache-poisoning/lab-1-web-cache-poisoning-with-an-unkeyed-header.md)

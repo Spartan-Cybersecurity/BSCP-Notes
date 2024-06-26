@@ -155,4 +155,4 @@ Content-Length: 208
 
 Teniendo en cuenta lo anterior, hemos realizado una escalacion de privilegios y esto lo podemos validar accediendo a:
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
