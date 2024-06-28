@@ -111,3 +111,7 @@
 ## Web cache poisoning
 
 * [Lab 1: Web cache poisoning with an unkeyed header](web-cache-poisoning/lab-1-web-cache-poisoning-with-an-unkeyed-header.md)
+
+## CORS
+
+* [Lab #2 - CORS vulnerability with trusted null origin](cors/lab-2-cors-vulnerability-with-trusted-null-origin.md)
