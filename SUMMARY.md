@@ -40,6 +40,8 @@
 
 * [¿Path Traversal?](path-traversal/path-traversal.md)
 * [Lab 1: File path traversal, simple case](path-traversal/lab-1-file-path-traversal-simple-case.md)
+* [Lab 2: File path traversal, traversal sequences blocked with absolute path bypass](path-traversal/lab-2-file-path-traversal-traversal-sequences-blocked-with-absolute-path-bypass.md)
+* [Lab 3: File path traversal, traversal sequences stripped non-recursively](path-traversal/lab-3-file-path-traversal-traversal-sequences-stripped-non-recursively.md)
 
 ## XML external entity (XXE) injection
 
