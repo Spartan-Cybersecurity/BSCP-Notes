@@ -13,7 +13,7 @@ Al validar la siguiente carga no funciona:
 
 Y se puede apreciar al ejecutar lo siguiente desde el devtools: `Object.prototype`
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Por lo anterior, se envia otra carga:
 
@@ -23,7 +23,7 @@ Por lo anterior, se envia otra carga:
 
 Y se logra ver que si funciono ejecutando desde el devtools: `Object.prototype`
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Por lo anterior, se procede a analizar el codigo fuente de JS:
 
@@ -90,19 +90,19 @@ Por lo anterior, enviamos la siguiente carga:
 
 Y lo anterior, genero el siguiente error:
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 La anterior payload no funciono y no genero el XSS.
 
 Si analizamos con el debugger, se logra apreciar que el payload se le esta agregando "1" al final:
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Lo anterior es debido a la linea 16 que suma la variable mas "1".
 
 Teniendo en cuenta lo anterior, enviaremos una carga adicionando el caracter "-".
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 La carga utilizada para desplegar el XSS fue la siguiente:
 

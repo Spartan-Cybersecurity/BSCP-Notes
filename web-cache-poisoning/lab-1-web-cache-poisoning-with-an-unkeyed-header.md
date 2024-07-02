@@ -133,7 +133,7 @@ X-Cache: hit
 
 Por lo anterior modificamos nuestro exploit server:
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 Y luego de lo anterior, enviamos la peticion con el dominio de nuestro exploit server:
 

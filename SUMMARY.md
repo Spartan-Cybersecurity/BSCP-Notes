@@ -34,6 +34,7 @@
 
 * [¿Control de Acceso?](access-control-vulnerabilities/control-de-acceso.md)
 * [Lab 1: Unprotected admin functionality](access-control-vulnerabilities/lab-1-unprotected-admin-functionality.md)
+* [Lab 3: User role controlled by request parameter](access-control-vulnerabilities/lab-3-user-role-controlled-by-request-parameter.md)
 
 ## Path traversal
 
@@ -44,6 +45,8 @@
 
 * [¿XML external entity?](xml-external-entity-xxe-injection/xml-external-entity.md)
 * [Lab 1: Exploiting XXE using external entities to retrieve files](xml-external-entity-xxe-injection/lab-1-exploiting-xxe-using-external-entities-to-retrieve-files.md)
+* [Lab 2: Exploiting XXE to perform SSRF attacks](xml-external-entity-xxe-injection/lab-2-exploiting-xxe-to-perform-ssrf-attacks.md)
+* [Lab 3: Blind XXE with out-of-band interaction](xml-external-entity-xxe-injection/lab-3-blind-xxe-with-out-of-band-interaction.md)
 
 ## JWT
 

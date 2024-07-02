@@ -229,11 +229,11 @@ El payload utilizado es:
 
 Luego de lo anterior, clickeamos en el button de "iniciar tarea":
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 Y luego de enviar la petición previa sobre actualización de datos y enviar la petición de inicio de tarea, se detecta trafico en el collaborator:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Gracias a lo anterior, sabemos que tenemos la posibilidad de utilizar el RCE:
 
@@ -275,7 +275,7 @@ Priority: u=1, i
 
 Y luego de enviar la peticion del button:
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 La respuesta de la peticion del button es la siguiente:
 
@@ -306,7 +306,7 @@ La respuesta de la peticion del button es la siguiente:
 
 Y en el collaborator se obtiene el siguiente trafico:
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Al decodificar el base64 encontramos esto:
 
