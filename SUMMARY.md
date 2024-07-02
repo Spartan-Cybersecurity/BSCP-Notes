@@ -115,3 +115,4 @@
 ## CORS
 
 * [Lab #2 - CORS vulnerability with trusted null origin](cors/lab-2-cors-vulnerability-with-trusted-null-origin.md)
+* [Lab 3: CORS vulnerability with trusted insecure protocols](cors/lab-3-cors-vulnerability-with-trusted-insecure-protocols.md)
